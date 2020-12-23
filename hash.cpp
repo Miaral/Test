@@ -1,6 +1,7 @@
+#include<bits/stdc++.h>
 #include<iostream>
 #include<map>
-#include<bits/stdc++.h>
+
 using namespace std;
 
 map<map<int ,int > ,int >mymap;
